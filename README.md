@@ -1,6 +1,6 @@
 # Live2D API
 
-Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 上使用的后端 API
+Live2D  (https://www.fghrsh.net/post/123.html) API
 
 ### Đặc Trưng
 
@@ -41,7 +41,7 @@ Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 上使用的后端
 ```shell
 │  index.json
 │  model.moc
-│  textures.cache       // 皮肤列表缓存，自动生成
+│  textures.cache       
 │
 ├─motions
 │      idle_01.mtn
