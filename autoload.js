@@ -4,6 +4,7 @@ const live2d_path = ("http://127.0.0.1:5500/")
 
 // Đóng các tài nguyên không đồng bộ
 function loadExternalResource(url, type) {
+	
 	return new Promise((resolve, reject) => {
 		let tag;
 
